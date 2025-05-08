@@ -23,3 +23,6 @@ To install the **Simurg Reltags** plugin on your forum, follow these steps:
 * **Test the Plugin:** Post a few test messages in your forum to verify that the plugin is working correctly. Ensure that rel attributes are added to guest group links and not added to exempt groups or domains.
 
 **Note:** To uninstall the plugin, use the **“Deactivate”** option in the **Admin Control Panel** and then delete the **simurg_reltags.php** and **simurg_reltags.lang.php** files from the inc/plugins/ directory.
+
+## Support
+[Plugin Support](https://mybb.pro).
